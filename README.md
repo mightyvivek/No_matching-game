@@ -1,2 +1,2 @@
-# No_matching-game
-No matching (Concentration) like game in python
+# No._matching-game
+Number matching (Concentration) like game in python
